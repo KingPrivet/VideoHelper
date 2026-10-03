@@ -1,0 +1,19 @@
+# Local build output and packaged releases
+**/bin/
+**/obj/
+publish/
+installer/
+*.zip
+VideoHelper/Tools/ffmpeg.exe
+
+# IDE and local agent files
+.vs/
+.idea/
+*.user
+*.suo
+agents.md
+AGENTS.md
+
+# Local configuration
+.env
+.env.*
